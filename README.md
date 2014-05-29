@@ -74,10 +74,10 @@
 ### [easydict](https://github.com/livoras/easydict)
 使用Python编写的一个Linux英文单词取词翻译的应用。
 
-### [RageJS(deprecated)](https://github.com/livoras/ragejs)
+### [RageJS (deprecated)](https://github.com/livoras/ragejs)
 前端MVVM框架，特点是所有feature进行widget化，用于开发类似桌面软件的SPA。大二的时候写，但已经没有维护。
 
-### [CobiaJS(deprecated)](https://github.com/livoras/cobiajs)
+### [CobiaJS (deprecated)](https://github.com/livoras/cobiajs)
 前端模块加载器，大二阅读SeaJS源码以后的心血来潮之作。
 
 
