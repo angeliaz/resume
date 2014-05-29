@@ -68,11 +68,11 @@
 ### [StereoJS](https://github.com/livoras/stereojs)
 小型类库，用于解决同浏览器中不同tabs之间的通信问题。
 
-### [blog](https://github.com/livoras/blog)
-个人博客源码。
-
 ### [easydict](https://github.com/livoras/easydict)
 使用Python编写的一个Linux英文单词取词翻译的应用。
+
+### [blog](https://github.com/livoras/blog)
+个人博客源码。
 
 ### [RageJS (deprecated)](https://github.com/livoras/ragejs)
 前端MVVM框架，特点是所有feature进行widget化，用于开发类似桌面软件的SPA。大二的时候写，但已经没有维护。
