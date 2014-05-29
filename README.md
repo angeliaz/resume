@@ -18,11 +18,11 @@
 
 **Email**：me@livoras.com
 
-**博客**：[http://livoras.com](http://livoras.com)
+**博客**：http://livoras.com
 
-**github**：[https://github.com/livoras](https://github.com/livoras)
+**github**：https://github.com/livoras
 
-**英语水平**：四级 528 六级 500。能阅读英文技术文献，曾经在[伯乐在线](http://blog.jobbole.com/)做过一段时间的技术翻译。
+**英语水平**：四级 528 六级 500。能熟练阅读、书写英文，曾经在[伯乐在线](http://blog.jobbole.com/)做过一段时间的前端技术翻译。
 
 ## 自我简介
 
@@ -53,14 +53,14 @@
 * 2011年进入中山大学软件学院学习。
 * 大一接触Web，并且专注前端，热血编程至今。
 * 大二开始创业，曾在项目中担任前端工程师和Team Leader角色。
-* 有使用框架构建较大型前端SPA的经验（BackboneJS | KnockoutJS| Angular）。
-* 担任中山大学现代互联网应用俱乐部主席（此俱乐部向腾讯输送了许多Web人才）。
+* 有使用框架构建较大型前端SPA的经验（BackboneJS | KnockoutJS | Angular）。
+* 担任中山大学现代互联网应用俱乐部主席（此俱乐部历届向腾讯输送了许多Web人才）。
 
 
 ## 个人作品
 
 ### [Saber](https://github.com/livoras/saber)
-基于KnockoutJS、jQuery、RequireJS构建的一个前端框架，所参与的创业项目中最终的架构就是采用了这个框架。
+基于KnockoutJS、jQuery、RequireJS构建的一个前端框架，使得前端开发组件化，利用事件机制解耦组件，独立开发和测试。所参与的创业项目中最终的架构就是采用了这个框架。
 
 ### [Backbone.Composition](https://github.com/livoras/backbone.Composite)
 创业项目中产生的第一个作品，BackboneJS插件，用于解决大型应用中，BackboneJS多层视图嵌套问题。。
@@ -82,8 +82,7 @@
 
 
 ### Others
-还有其他的可以上 Github 查看：[https://github.com/khhhshhh](https://github.com/khhhshhh)
-
+还有其他的可以上 Github 查看：https://github.com/livoras
 
 ## License
 MIT License
