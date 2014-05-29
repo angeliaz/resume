@@ -45,7 +45,8 @@
 * 掌握项目构建工具：Grunt、Gulp、mimosa
 * 掌握前端测试框架以及工具：Jasmine、Mocha、Karma
 * 掌握项目管理和协同工具的使用：SVN、Git
-* 掌握后端开发Python、PHP、NodeJS等
+* 掌握基本后端开发：Python、PHP、NodeJS
+* 掌握测试驱动开发：TDD、BDD
 * 各种和Web相关的技术：Linux、Flask、SQLAlchemy、Express、MongoDB、Socket.io等
 
 
