@@ -69,6 +69,9 @@
 ### [StereoJS](https://github.com/livoras/stereojs)
 小型类库，用于解决同浏览器中不同tabs之间的通信问题。
 
+### [tween-scroller](https://github.com/livoras/tween-scroller)
+也是创业项目衍生物，jQuery动画插件，使用CoffeeScript编写，用来在浏览器端实现手机一样滚动回弹动画效果。可见[demo](http://sysumiac.github.io/homework2013/)。
+
 ### [easydict](https://github.com/livoras/easydict)
 使用Python编写的一个Linux英文单词取词翻译的应用。
 
