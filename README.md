@@ -100,6 +100,10 @@
 
 前端模块加载器，大二阅读SeaJS源码以后的心血来潮之作。
 
+### [Shooting Chicken](https://github.com/livoras/shooting-chicken)
+项目地址：https://github.com/livoras/shooting-chicken
+
+一款手机端的HTML5游戏，可以用手机访问：http://livoras.github.io/blog/index.html，查看效果。
 
 ### Others
 还有其他的可以上 Github 查看：https://github.com/livoras
