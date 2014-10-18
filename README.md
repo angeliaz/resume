@@ -47,7 +47,7 @@
 * 掌握项目管理和协同工具的使用：SVN、Git
 * 掌握基本后端开发：Python、PHP、NodeJS
 * 掌握测试驱动开发：TDD、BDD
-* 各种和Web相关的技术：Linux、Flask、SQLAlchemy、Express、MongoDB、Socket.io等
+* 和Web相关的技术：Linux、Flask、SQLAlchemy、Express、MongoDB、Socket.io等
 
 
 ## 个人经历
